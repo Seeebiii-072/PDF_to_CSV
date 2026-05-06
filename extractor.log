@@ -1,0 +1,560 @@
+2026-05-06 10:37:20,789  INFO      ================================================================
+2026-05-06 10:37:20,789  INFO        Employee Data Extractor — starting
+2026-05-06 10:37:20,790  INFO      ================================================================
+2026-05-06 10:37:20,790  INFO        Input  : employees.pdf
+2026-05-06 10:37:20,791  INFO        Output : employees.csv
+2026-05-06 10:37:20,791  INFO        DPI    : 250
+2026-05-06 10:37:20,791  INFO      ================================================================
+2026-05-06 10:37:20,792  INFO      Converting PDF to images (DPI=250): employees.pdf
+2026-05-06 10:37:30,893  INFO      ================================================================
+2026-05-06 10:37:30,894  INFO        Employee Data Extractor — starting
+2026-05-06 10:37:30,894  INFO      ================================================================
+2026-05-06 10:37:30,895  INFO        Input  : screencapture-empower-laserfiche-hub-events-a647f813-52c8-4d3d-947f-1d4b158020cf-attendees-2026-04-30-14_10_18.pdf
+2026-05-06 10:37:30,895  INFO        Output : employees.csv
+2026-05-06 10:37:30,896  INFO        DPI    : 250
+2026-05-06 10:37:30,896  INFO      ================================================================
+2026-05-06 10:37:30,896  INFO      Converting PDF to images (DPI=250): screencapture-empower-laserfiche-hub-events-a647f813-52c8-4d3d-947f-1d4b158020cf-attendees-2026-04-30-14_10_18.pdf
+2026-05-06 10:39:48,207  INFO        ✓ 86 page(s) loaded
+2026-05-06 10:39:48,212  INFO      ── Page 1/86 ──────────────────────
+2026-05-06 10:39:53,182  INFO        → 0 record(s) found on page 1
+2026-05-06 10:39:53,183  INFO      ── Page 2/86 ──────────────────────
+2026-05-06 10:39:54,866  INFO        ✚ {'Full Name': 'West Chester Township', 'Job Title': 'Program Specialist I', 'Organization': 'TAMUK'}
+2026-05-06 10:39:54,866  INFO        → 1 record(s) found on page 2
+2026-05-06 10:39:54,866  INFO      ── Page 3/86 ──────────────────────
+2026-05-06 10:39:56,208  INFO        → 0 record(s) found on page 3
+2026-05-06 10:39:56,209  INFO      ── Page 4/86 ──────────────────────
+2026-05-06 10:39:57,673  INFO        → 0 record(s) found on page 4
+2026-05-06 10:39:57,673  INFO      ── Page 5/86 ──────────────────────
+2026-05-06 10:39:59,083  INFO        ✚ {'Full Name': 'Citizens Energy Group', 'Job Title': 'Financial Analyst Ill', 'Organization': 'Texas A&M AgriLife'}
+2026-05-06 10:39:59,083  INFO        → 1 record(s) found on page 5
+2026-05-06 10:39:59,083  INFO      ── Page 6/86 ──────────────────────
+2026-05-06 10:40:00,402  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'HR Technician', 'Organization': 'City of Burlingame'}
+2026-05-06 10:40:00,403  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'Municipal Agenda Coordinator', 'Organization': 'City of Huntsville'}
+2026-05-06 10:40:00,403  INFO        ✚ {'Full Name': 'Loudoun County', 'Job Title': 'Records Management Specialist', 'Organization': 'City of Allen'}
+2026-05-06 10:40:00,403  INFO        → 3 record(s) found on page 6
+2026-05-06 10:40:00,404  INFO      ── Page 7/86 ──────────────────────
+2026-05-06 10:40:01,874  INFO        → 0 record(s) found on page 7
+2026-05-06 10:40:01,874  INFO      ── Page 8/86 ──────────────────────
+2026-05-06 10:40:03,249  INFO        ✚ {'Full Name': 'TEST Registration', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:40:03,250  INFO        → 1 record(s) found on page 8
+2026-05-06 10:40:03,250  INFO      ── Page 9/86 ──────────────────────
+2026-05-06 10:40:04,632  INFO        ✚ {'Full Name': 'Government Frameworks', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:40:04,632  INFO        → 1 record(s) found on page 9
+2026-05-06 10:40:04,633  INFO      ── Page 10/86 ──────────────────────
+2026-05-06 10:40:05,980  INFO        → 0 record(s) found on page 10
+2026-05-06 10:40:05,980  INFO      ── Page 11/86 ──────────────────────
+2026-05-06 10:40:07,317  INFO        → 0 record(s) found on page 11
+2026-05-06 10:40:07,317  INFO      ── Page 12/86 ──────────────────────
+2026-05-06 10:40:08,748  INFO        → 0 record(s) found on page 12
+2026-05-06 10:40:08,749  INFO      ── Page 13/86 ──────────────────────
+2026-05-06 10:40:10,199  INFO        → 0 record(s) found on page 13
+2026-05-06 10:40:10,200  INFO      ── Page 14/86 ──────────────────────
+2026-05-06 10:40:11,580  INFO        → 0 record(s) found on page 14
+2026-05-06 10:40:11,580  INFO      ── Page 15/86 ──────────────────────
+2026-05-06 10:40:13,044  INFO        → 0 record(s) found on page 15
+2026-05-06 10:40:13,044  INFO      ── Page 16/86 ──────────────────────
+2026-05-06 10:40:14,409  INFO        ✚ {'Full Name': 'Southcentral Foundation', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:40:14,409  INFO        ✚ {'Full Name': 'Icc', 'Job Title': 'IT Project Manager', 'Organization': 'City of Mountain View'}
+2026-05-06 10:40:14,410  INFO        → 2 record(s) found on page 16
+2026-05-06 10:40:14,410  INFO      ── Page 17/86 ──────────────────────
+2026-05-06 10:40:15,750  INFO        ✚ {'Full Name': 'Higher Learning Commission', 'Job Title': 'CFO', 'Organization': 'Complete Paperless Solutions LLC'}
+2026-05-06 10:40:15,750  INFO        → 1 record(s) found on page 17
+2026-05-06 10:40:15,750  INFO      ── Page 18/86 ──────────────────────
+2026-05-06 10:40:17,101  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'Software Developer II', 'Organization': 'County of Santa Barbara Clerk-Recorder-Assessor'}
+2026-05-06 10:40:17,101  INFO        → 1 record(s) found on page 18
+2026-05-06 10:40:17,101  INFO      ── Page 19/86 ──────────────────────
+2026-05-06 10:40:18,488  INFO        → 0 record(s) found on page 19
+2026-05-06 10:40:18,488  INFO      ── Page 20/86 ──────────────────────
+2026-05-06 10:40:19,948  INFO        → 0 record(s) found on page 20
+2026-05-06 10:40:19,948  INFO      ── Page 21/86 ──────────────────────
+2026-05-06 10:40:21,594  INFO        → 0 record(s) found on page 21
+2026-05-06 10:40:21,595  INFO      ── Page 22/86 ──────────────────────
+2026-05-06 10:40:22,944  INFO        → 0 record(s) found on page 22
+2026-05-06 10:40:22,944  INFO      ── Page 23/86 ──────────────────────
+2026-05-06 10:40:24,216  INFO        ✚ {'Full Name': 'Durham County Sheriff Office', 'Job Title': 'Director of IT', 'Organization': 'Gallagher Asphalt Corporation'}
+2026-05-06 10:40:24,216  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'Manager of Support Services', 'Organization': 'MCCi'}
+2026-05-06 10:40:24,216  INFO        ✚ {'Full Name': 'Developmnent', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:40:24,217  INFO        → 3 record(s) found on page 23
+2026-05-06 10:40:24,217  INFO      ── Page 24/86 ──────────────────────
+2026-05-06 10:40:25,654  INFO        → 0 record(s) found on page 24
+2026-05-06 10:40:25,654  INFO      ── Page 25/86 ──────────────────────
+2026-05-06 10:40:27,051  INFO        ✚ {'Full Name': 'Boise Co-op', 'Job Title': 'Support Engineer', 'Organization': 'Laserfiche'}
+2026-05-06 10:40:27,052  INFO        → 1 record(s) found on page 25
+2026-05-06 10:40:27,052  INFO      ── Page 26/86 ──────────────────────
+2026-05-06 10:40:28,444  INFO        → 0 record(s) found on page 26
+2026-05-06 10:40:28,445  INFO      ── Page 27/86 ──────────────────────
+2026-05-06 10:40:29,841  INFO        → 0 record(s) found on page 27
+2026-05-06 10:40:29,841  INFO      ── Page 28/86 ──────────────────────
+2026-05-06 10:40:31,406  INFO        ✚ {'Full Name': 'Digital Document Solutions', 'Job Title': 'Systems Analyst', 'Organization': 'City of Tucson'}
+2026-05-06 10:40:31,406  INFO        ✚ {'Full Name': 'Ventura County DAO', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:40:31,406  INFO        → 2 record(s) found on page 28
+2026-05-06 10:40:31,406  INFO      ── Page 29/86 ──────────────────────
+2026-05-06 10:40:32,870  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'AVP Program Management', 'Organization': 'Universal Fidelity Life Insurance Company'}
+2026-05-06 10:40:32,870  INFO        → 1 record(s) found on page 29
+2026-05-06 10:40:32,870  INFO      ── Page 30/86 ──────────────────────
+2026-05-06 10:40:34,213  INFO        ✚ {'Full Name': 'HM Hashmat Malik', 'Job Title': 'Sr Systems Analyst', 'Organization': 'Dallas Cowboys'}
+2026-05-06 10:40:34,214  INFO        → 1 record(s) found on page 30
+2026-05-06 10:40:34,215  INFO      ── Page 31/86 ──────────────────────
+2026-05-06 10:40:35,647  INFO        → 0 record(s) found on page 31
+2026-05-06 10:40:35,647  INFO      ── Page 32/86 ──────────────────────
+2026-05-06 10:40:36,931  INFO        ✚ {'Full Name': 'Shannon Bros Co Inc', 'Job Title': 'IT Analyst', 'Organization': 'City of Rochester'}
+2026-05-06 10:40:36,931  INFO        ✚ {'Full Name': 'CVvESD', 'Job Title': 'Engineering Technician', 'Organization': 'Town of Yountville'}
+2026-05-06 10:40:36,931  INFO        ✚ {'Full Name': 'PIDC', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:40:36,931  INFO        → 3 record(s) found on page 32
+2026-05-06 10:40:36,932  INFO      ── Page 33/86 ──────────────────────
+2026-05-06 10:40:38,301  INFO        → 0 record(s) found on page 33
+2026-05-06 10:40:38,302  INFO      ── Page 34/86 ──────────────────────
+2026-05-06 10:40:39,636  INFO        → 0 record(s) found on page 34
+2026-05-06 10:40:39,637  INFO      ── Page 35/86 ──────────────────────
+2026-05-06 10:40:41,016  INFO        ✚ {'Full Name': 'AES', 'Job Title': 'CIO', 'Organization': 'Village of Pinehurst'}
+2026-05-06 10:40:41,017  INFO        → 1 record(s) found on page 35
+2026-05-06 10:40:41,017  INFO      ── Page 36/86 ──────────────────────
+2026-05-06 10:40:42,344  INFO        ✚ {'Full Name': 'KMWorld', 'Job Title': 'Deputy City Clerk', 'Organization': 'City of Port Orchard'}
+2026-05-06 10:40:42,344  INFO        → 1 record(s) found on page 36
+2026-05-06 10:40:42,345  INFO      ── Page 37/86 ──────────────────────
+2026-05-06 10:40:43,783  INFO        → 0 record(s) found on page 37
+2026-05-06 10:40:43,784  INFO      ── Page 38/86 ──────────────────────
+2026-05-06 10:40:45,144  INFO        → 0 record(s) found on page 38
+2026-05-06 10:40:45,144  INFO      ── Page 39/86 ──────────────────────
+2026-05-06 10:40:46,483  INFO        → 0 record(s) found on page 39
+2026-05-06 10:40:46,484  INFO      ── Page 40/86 ──────────────────────
+2026-05-06 10:40:47,881  INFO        ✚ {'Full Name': 'ICC Community Development', 'Job Title': 'Accountant', 'Organization': 'City of Tumwater'}
+2026-05-06 10:40:47,881  INFO        → 1 record(s) found on page 40
+2026-05-06 10:40:47,882  INFO      ── Page 41/86 ──────────────────────
+2026-05-06 10:40:49,181  INFO        → 0 record(s) found on page 41
+2026-05-06 10:40:49,181  INFO      ── Page 42/86 ──────────────────────
+2026-05-06 10:40:50,625  INFO        → 0 record(s) found on page 42
+2026-05-06 10:40:50,625  INFO      ── Page 43/86 ──────────────────────
+2026-05-06 10:40:52,185  INFO        → 0 record(s) found on page 43
+2026-05-06 10:40:52,186  INFO      ── Page 44/86 ──────────────────────
+2026-05-06 10:40:53,540  INFO        ✚ {'Full Name': 'Halbert Hargrove', 'Job Title': 'Chief Business Official', 'Organization': 'Taft Union High School District'}
+2026-05-06 10:40:53,540  INFO        → 1 record(s) found on page 44
+2026-05-06 10:40:53,540  INFO      ── Page 45/86 ──────────────────────
+2026-05-06 10:40:54,862  INFO        → 0 record(s) found on page 45
+2026-05-06 10:40:54,862  INFO      ── Page 46/86 ──────────────────────
+2026-05-06 10:40:56,294  INFO        → 0 record(s) found on page 46
+2026-05-06 10:40:56,294  INFO      ── Page 47/86 ──────────────────────
+2026-05-06 10:40:57,682  INFO        → 0 record(s) found on page 47
+2026-05-06 10:40:57,682  INFO      ── Page 48/86 ──────────────────────
+2026-05-06 10:40:59,124  INFO        → 0 record(s) found on page 48
+2026-05-06 10:40:59,124  INFO      ── Page 49/86 ──────────────────────
+2026-05-06 10:41:00,461  INFO        → 0 record(s) found on page 49
+2026-05-06 10:41:00,461  INFO      ── Page 50/86 ──────────────────────
+2026-05-06 10:41:02,040  INFO        → 0 record(s) found on page 50
+2026-05-06 10:41:02,040  INFO      ── Page 51/86 ──────────────────────
+2026-05-06 10:41:03,389  INFO        ✚ {'Full Name': 'Rochester Public Utilities', 'Job Title': 'Senior Engineer', 'Organization': 'Momentum ECM.'}
+2026-05-06 10:41:03,390  INFO        → 1 record(s) found on page 51
+2026-05-06 10:41:03,390  INFO      ── Page 52/86 ──────────────────────
+2026-05-06 10:41:04,808  INFO        ✚ {'Full Name': 'Department', 'Job Title': 'cS) Ms. Laura Diaz', 'Organization': 'CMC 6)'}
+2026-05-06 10:41:04,808  INFO        → 1 record(s) found on page 52
+2026-05-06 10:41:04,809  INFO      ── Page 53/86 ──────────────────────
+2026-05-06 10:41:06,135  INFO        → 0 record(s) found on page 53
+2026-05-06 10:41:06,136  INFO      ── Page 54/86 ──────────────────────
+2026-05-06 10:41:07,450  INFO        → 0 record(s) found on page 54
+2026-05-06 10:41:07,450  INFO      ── Page 55/86 ──────────────────────
+2026-05-06 10:41:08,871  INFO        ✚ {'Full Name': 'Oakland County', 'Job Title': 'Application Administrator', 'Organization': 'Thurston County'}
+2026-05-06 10:41:08,871  INFO        → 1 record(s) found on page 55
+2026-05-06 10:41:08,871  INFO      ── Page 56/86 ──────────────────────
+2026-05-06 10:41:10,303  INFO        → 0 record(s) found on page 56
+2026-05-06 10:41:10,303  INFO      ── Page 57/86 ──────────────────────
+2026-05-06 10:41:11,583  INFO        → 0 record(s) found on page 57
+2026-05-06 10:41:11,583  INFO      ── Page 58/86 ──────────────────────
+2026-05-06 10:41:13,077  INFO        ✚ {'Full Name': 'South Jersey Industries', 'Job Title': 'Software Engineer', 'Organization': 'School District of Lee County'}
+2026-05-06 10:41:13,077  INFO        → 1 record(s) found on page 58
+2026-05-06 10:41:13,077  INFO      ── Page 59/86 ──────────────────────
+2026-05-06 10:41:14,507  INFO        → 0 record(s) found on page 59
+2026-05-06 10:41:14,507  INFO      ── Page 60/86 ──────────────────────
+2026-05-06 10:41:15,864  INFO        ✚ {'Full Name': 'Lh', 'Job Title': 'Data Clerk', 'Organization': 'Cowichan Tribes'}
+2026-05-06 10:41:15,864  INFO        ✚ {'Full Name': 'Ada County Sheriffs Office', 'Job Title': 'Front End Developer', 'Organization': 'MSGCU'}
+2026-05-06 10:41:15,865  INFO        → 2 record(s) found on page 60
+2026-05-06 10:41:15,865  INFO      ── Page 61/86 ──────────────────────
+2026-05-06 10:41:17,261  INFO        ✚ {'Full Name': 'Ricoh Canada', 'Job Title': 'Account Manager', 'Organization': 'Cities Digital Inc.'}
+2026-05-06 10:41:17,262  INFO        → 1 record(s) found on page 61
+2026-05-06 10:41:17,262  INFO      ── Page 62/86 ──────────────────────
+2026-05-06 10:41:18,630  INFO        ✚ {'Full Name': 'Government', 'Job Title': 'Records Manager', 'Organization': "Ada County Sheriff's Office"}
+2026-05-06 10:41:18,631  INFO        → 1 record(s) found on page 62
+2026-05-06 10:41:18,631  INFO      ── Page 63/86 ──────────────────────
+2026-05-06 10:41:20,056  INFO        → 0 record(s) found on page 63
+2026-05-06 10:41:20,057  INFO      ── Page 64/86 ──────────────────────
+2026-05-06 10:41:21,355  INFO        ✚ {'Full Name': 'Montego Minerals', 'Job Title': 'Information Systems Coordinator', 'Organization': 'School District of Lee County'}
+2026-05-06 10:41:21,356  INFO        ✚ {'Full Name': 'McKinney ISD', 'Job Title': 'HR Clerk', 'Organization': 'City of Fontana'}
+2026-05-06 10:41:21,356  INFO        ✚ {'Full Name': 'EMI Imaging', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:41:21,356  INFO        → 3 record(s) found on page 64
+2026-05-06 10:41:21,356  INFO      ── Page 65/86 ──────────────────────
+2026-05-06 10:41:22,777  INFO        → 0 record(s) found on page 65
+2026-05-06 10:41:22,779  INFO      ── Page 66/86 ──────────────────────
+2026-05-06 10:41:24,347  INFO        → 0 record(s) found on page 66
+2026-05-06 10:41:24,347  INFO      ── Page 67/86 ──────────────────────
+2026-05-06 10:41:25,790  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:41:25,791  INFO        → 1 record(s) found on page 67
+2026-05-06 10:41:25,791  INFO      ── Page 68/86 ──────────────────────
+2026-05-06 10:41:27,582  INFO        → 0 record(s) found on page 68
+2026-05-06 10:41:27,583  INFO      ── Page 69/86 ──────────────────────
+2026-05-06 10:41:29,103  INFO        ✚ {'Full Name': 'CASE Medical Group', 'Job Title': 'Database Engineer II', 'Organization': 'VVUSD'}
+2026-05-06 10:41:29,103  INFO        → 1 record(s) found on page 69
+2026-05-06 10:41:29,104  INFO      ── Page 70/86 ──────────────────────
+2026-05-06 10:41:30,542  INFO        ✚ {'Full Name': 'Rare', 'Job Title': 'Portfolio Manager', 'Organization': 'Ricoh Canada'}
+2026-05-06 10:41:30,542  INFO        → 1 record(s) found on page 70
+2026-05-06 10:41:30,542  INFO      ── Page 71/86 ──────────────────────
+2026-05-06 10:41:32,093  INFO        → 0 record(s) found on page 71
+2026-05-06 10:41:32,094  INFO      ── Page 72/86 ──────────────────────
+2026-05-06 10:41:33,647  INFO        → 0 record(s) found on page 72
+2026-05-06 10:41:33,647  INFO      ── Page 73/86 ──────────────────────
+2026-05-06 10:41:35,107  INFO        → 0 record(s) found on page 73
+2026-05-06 10:41:35,108  INFO      ── Page 74/86 ──────────────────────
+2026-05-06 10:41:36,647  INFO        → 0 record(s) found on page 74
+2026-05-06 10:41:36,647  INFO      ── Page 75/86 ──────────────────────
+2026-05-06 10:41:38,139  INFO        → 0 record(s) found on page 75
+2026-05-06 10:41:38,139  INFO      ── Page 76/86 ──────────────────────
+2026-05-06 10:41:39,623  INFO        → 0 record(s) found on page 76
+2026-05-06 10:41:39,623  INFO      ── Page 77/86 ──────────────────────
+2026-05-06 10:41:41,168  INFO        → 0 record(s) found on page 77
+2026-05-06 10:41:41,168  INFO      ── Page 78/86 ──────────────────────
+2026-05-06 10:41:42,630  INFO        → 0 record(s) found on page 78
+2026-05-06 10:41:42,630  INFO      ── Page 79/86 ──────────────────────
+2026-05-06 10:41:44,077  INFO        ✚ {'Full Name': 'Kansas State University', 'Job Title': 'IT Technician III', 'Organization': 'Town of Firestone'}
+2026-05-06 10:41:44,078  INFO        → 1 record(s) found on page 79
+2026-05-06 10:41:44,078  INFO      ── Page 80/86 ──────────────────────
+2026-05-06 10:41:45,448  INFO        → 0 record(s) found on page 80
+2026-05-06 10:41:45,448  INFO      ── Page 81/86 ──────────────────────
+2026-05-06 10:41:46,844  INFO        ✚ {'Full Name': 'Houston City College', 'Job Title': 'BDM', 'Organization': 'Laserfiche'}
+2026-05-06 10:41:46,844  INFO        → 1 record(s) found on page 81
+2026-05-06 10:41:46,845  INFO      ── Page 82/86 ──────────────────────
+2026-05-06 10:41:48,228  INFO        → 0 record(s) found on page 82
+2026-05-06 10:41:48,228  INFO      ── Page 83/86 ──────────────────────
+2026-05-06 10:41:49,719  INFO        ✚ {'Full Name': 'TAMU', 'Job Title': 'Director of Claims', 'Organization': 'Illinois Insurance Guaranty Fund'}
+2026-05-06 10:41:49,719  INFO        → 1 record(s) found on page 83
+2026-05-06 10:41:49,719  INFO      ── Page 84/86 ──────────────────────
+2026-05-06 10:41:51,022  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'Solutions Engineer', 'Organization': 'Sumnerone'}
+2026-05-06 10:41:51,022  INFO        ✚ {'Full Name': 'MCCi', 'Job Title': 'Director of Information Technology', 'Organization': 'Wallis Companies'}
+2026-05-06 10:41:51,022  INFO        → 2 record(s) found on page 84
+2026-05-06 10:41:51,023  INFO      ── Page 85/86 ──────────────────────
+2026-05-06 10:41:52,411  INFO        ✚ {'Full Name': 'Laserfiche', 'Job Title': 'Senior Customer Engagement Manager', 'Organization': 'Laserfiche'}
+2026-05-06 10:41:52,411  INFO        ✚ {'Full Name': 'Ricoh', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:41:52,412  INFO        ✚ {'Full Name': 'Modified Logic', 'Job Title': '', 'Organization': ''}
+2026-05-06 10:41:52,412  INFO        → 3 record(s) found on page 85
+2026-05-06 10:41:52,412  INFO      ── Page 86/86 ──────────────────────
+2026-05-06 10:41:53,173  INFO        → 0 record(s) found on page 86
+2026-05-06 10:41:53,173  INFO      
+Total unique records across all pages: 48
+2026-05-06 10:41:53,179  INFO      ✓ CSV written → 'employees.csv'  (48 rows)
+2026-05-06 10:41:53,179  INFO      Done.
+2026-05-06 10:55:55,269  INFO      =================================================================
+2026-05-06 10:55:55,270  INFO        Employee Extractor v2.0  —  starting
+2026-05-06 10:55:55,270  INFO      =================================================================
+2026-05-06 10:55:55,270  INFO        PDF    : screencapture-empower-laserfiche-hub-events-a647f813-52c8-4d3d-947f-1d4b158020cf-attendees-2026-04-30-14_10_18.pdf
+2026-05-06 10:55:55,271  INFO        Output : employees.csv
+2026-05-06 10:55:55,271  INFO        DPI    : 300   Crop L=0.2 T=0.18 R=0.85 B=0.94
+2026-05-06 10:55:55,271  INFO      =================================================================
+2026-05-06 10:55:55,272  INFO      Loading PDF: screencapture-empower-laserfiche-hub-events-a647f813-52c8-4d3d-947f-1d4b158020cf-attendees-2026-04-30-14_10_18.pdf  (DPI=300)
+2026-05-06 11:00:20,146  INFO        ✓  86 page(s)
+2026-05-06 11:00:20,169  INFO      ── Page 1/86 ────────────────────────────────────────
+2026-05-06 11:00:26,476  INFO        ✚  {'Full Name': 'Laserfiche Admin', 'Job Title': 'Chief Information Officer', 'Organization': 'City of little rock'}
+2026-05-06 11:00:26,476  INFO        → 1 record(s) on page 1
+2026-05-06 11:00:26,477  INFO      ── Page 2/86 ────────────────────────────────────────
+2026-05-06 11:00:32,127  INFO        ✚  {'Full Name': 'Sharepoint Admin', 'Job Title': 'IT Applications Administrator II', 'Organization': 'Jacksons Food Stores'}
+2026-05-06 11:00:32,131  INFO        ✚  {'Full Name': 'West Chester Township', 'Job Title': 'Program Specialist', 'Organization': 'TAMUK'}
+2026-05-06 11:00:32,132  INFO        → 2 record(s) on page 2
+2026-05-06 11:00:32,133  INFO      ── Page 3/86 ────────────────────────────────────────
+2026-05-06 11:00:37,086  INFO        ✚  {'Full Name': 'City Clerk', 'Job Title': 'IT Business Analyst', 'Organization': 'City of North Las Vegas'}
+2026-05-06 11:00:37,086  INFO        → 1 record(s) on page 3
+2026-05-06 11:00:37,086  INFO      ── Page 4/86 ────────────────────────────────────────
+2026-05-06 11:00:41,690  INFO        ✚  {'Full Name': 'Accounts Payable Manager', 'Job Title': 'Business Services Administrator', 'Organization': 'Trinity County Office of Education'}
+2026-05-06 11:00:41,691  INFO        → 1 record(s) on page 4
+2026-05-06 11:00:41,691  INFO      ── Page 5/86 ────────────────────────────────────────
+2026-05-06 11:00:45,726  INFO        ✚  {'Full Name': 'Citizens Energy Group', 'Job Title': 'Account Executive, Cities Digital, Inc.', 'Organization': ''}
+2026-05-06 11:00:45,726  INFO        → 1 record(s) on page 5
+2026-05-06 11:00:45,726  INFO      ── Page 6/86 ────────────────────────────────────────
+2026-05-06 11:00:49,811  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'HR Technician', 'Organization': 'City of Burlingame'}
+2026-05-06 11:00:49,812  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'Municipal Agenda Coordinator', 'Organization': 'City of Huntsville'}
+2026-05-06 11:00:49,812  INFO        ✚  {'Full Name': 'Loudoun County', 'Job Title': 'Records Management Specialist', 'Organization': 'City of Allen'}
+2026-05-06 11:00:49,813  INFO        → 3 record(s) on page 6
+2026-05-06 11:00:49,815  INFO      ── Page 7/86 ────────────────────────────────────────
+2026-05-06 11:00:53,973  INFO        ✚  {'Full Name': 'PMO', 'Job Title': 'Jefa de implementaciones Laserfiche', 'Organization': 'TEKUNO S.A. DE C.V.'}
+2026-05-06 11:00:53,973  INFO        → 1 record(s) on page 7
+2026-05-06 11:00:53,973  INFO      ── Page 8/86 ────────────────────────────────────────
+2026-05-06 11:00:58,047  INFO        ✚  {'Full Name': 'Technical Engineer', 'Job Title': 'Programmer Analyst II', 'Organization': 'City of Huntsville'}
+2026-05-06 11:00:58,048  INFO        ✚  {'Full Name': 'TEST Registration', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:00:58,048  INFO        → 2 record(s) on page 8
+2026-05-06 11:00:58,048  INFO      ── Page 9/86 ────────────────────────────────────────
+2026-05-06 11:01:02,634  INFO        ✚  {'Full Name': 'Principal Program Manager', 'Job Title': 'Technology Services Manager', 'Organization': 'City of Santa Clarita'}
+2026-05-06 11:01:02,634  INFO        ✚  {'Full Name': 'Government Frameworks', 'Job Title': '" Account Manager: State & Local Government, PFU America Inc. A Ricoh Company', 'Organization': ''}
+2026-05-06 11:01:02,634  INFO        → 2 record(s) on page 9
+2026-05-06 11:01:02,634  INFO      ── Page 10/86 ────────────────────────────────────────
+2026-05-06 11:01:07,135  INFO        ✚  {'Full Name': 'ECM Supervisor', 'Job Title': 'Senior IT Pro Il', 'Organization': 'Texas A&M University Police Department'}
+2026-05-06 11:01:07,137  INFO        → 1 record(s) on page 10
+2026-05-06 11:01:07,138  INFO      ── Page 11/86 ────────────────────────────────────────
+2026-05-06 11:01:12,314  INFO        ✚  {'Full Name': 'Be Systems Admin', 'Job Title': 'Systems Administrator', 'Organization': 'The City of Rifle'}
+2026-05-06 11:01:12,314  INFO        → 1 record(s) on page 11
+2026-05-06 11:01:12,314  INFO      ── Page 12/86 ────────────────────────────────────────
+2026-05-06 11:01:16,803  INFO        ✚  {'Full Name': 'Staff Product Manager', 'Job Title': '', 'Organization': 'Laserfiche'}
+2026-05-06 11:01:16,804  INFO        ✚  {'Full Name': 'ZS', 'Job Title': 'Bch Document Management Specialist', 'Organization': 'OQrano Enrichment USA LLC'}
+2026-05-06 11:01:16,805  INFO        ✚  {'Full Name': 'Sie', 'Job Title': 'Senior Solutions Account Executive', 'Organization': 'ICC -CDS/ General Code'}
+2026-05-06 11:01:16,805  INFO        → 3 record(s) on page 12
+2026-05-06 11:01:16,805  INFO      ── Page 13/86 ────────────────────────────────────────
+2026-05-06 11:01:21,086  INFO        ✚  {'Full Name': 'Business Transformation Specialist', 'Job Title': 'Records Technician', 'Organization': 'Town of Erie'}
+2026-05-06 11:01:21,086  INFO        → 1 record(s) on page 13
+2026-05-06 11:01:21,086  INFO      ── Page 14/86 ────────────────────────────────────────
+2026-05-06 11:01:25,285  INFO        ✚  {'Full Name': 'IT Technician', 'Job Title': 'Continuous Improvement Specialist', 'Organization': 'Educational Service District 105'}
+2026-05-06 11:01:25,286  INFO        → 1 record(s) on page 14
+2026-05-06 11:01:25,286  INFO      ── Page 15/86 ────────────────────────────────────────
+2026-05-06 11:01:29,514  INFO        ✚  {'Full Name': 'Application Developer', 'Job Title': 'Deputy City Clerk - Codifier', 'Organization': 'City of Fayetteville'}
+2026-05-06 11:01:29,514  INFO        ✚  {'Full Name': 'Chris Cartrett', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:01:29,515  INFO        → 2 record(s) on page 15
+2026-05-06 11:01:29,515  INFO      ── Page 16/86 ────────────────────────────────────────
+2026-05-06 11:01:33,810  INFO        ✚  {'Full Name': 'Deputy Director', 'Job Title': 'Information Technology Analyst Ill', 'Organization': 'Butte County'}
+2026-05-06 11:01:33,811  INFO        ✚  {'Full Name': 'Southcentral Foundation', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:01:33,811  INFO        ✚  {'Full Name': 'ICC', 'Job Title': 'IT Project Manager', 'Organization': 'City of Mountain View'}
+2026-05-06 11:01:33,812  INFO        → 3 record(s) on page 16
+2026-05-06 11:01:33,812  INFO      ── Page 17/86 ────────────────────────────────────────
+2026-05-06 11:01:39,071  INFO        ✚  {'Full Name': 'Marketing Manager', 'Job Title': 'Sr Solutions Consultant', 'Organization': 'Ricoh Canada Inc'}
+2026-05-06 11:01:39,072  INFO        ✚  {'Full Name': 'Higher Learning Commission', 'Job Title': 'CFO', 'Organization': 'Complete Paperless Solutions LLC'}
+2026-05-06 11:01:39,072  INFO        → 2 record(s) on page 17
+2026-05-06 11:01:39,072  INFO      ── Page 18/86 ────────────────────────────────────────
+2026-05-06 11:01:43,505  INFO        ✚  {'Full Name': 'IT Business Integration Specialist', 'Job Title': 'Data Coordinator Manager', 'Organization': 'Boise Consumer Coop'}
+2026-05-06 11:01:43,506  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'Software Developer II', 'Organization': 'County of Santa Barbara Clerk-Recorder-Assessor'}
+2026-05-06 11:01:43,506  INFO        → 2 record(s) on page 18
+2026-05-06 11:01:43,506  INFO      ── Page 19/86 ────────────────────────────────────────
+2026-05-06 11:01:47,612  INFO        ✚  {'Full Name': 'Supervising Finance Analyst', 'Job Title': 'Junior Analyst', 'Organization': 'Cowichan Tribes'}
+2026-05-06 11:01:47,612  INFO        → 1 record(s) on page 19
+2026-05-06 11:01:47,613  INFO      ── Page 20/86 ────────────────────────────────────────
+2026-05-06 11:01:51,864  INFO        ✚  {'Full Name': 'IT Director', 'Job Title': 'w)- Permits & Records Manager', 'Organization': 'City of Stevenson'}
+2026-05-06 11:01:51,864  INFO        → 1 record(s) on page 20
+2026-05-06 11:01:51,864  INFO      ── Page 21/86 ────────────────────────────────────────
+2026-05-06 11:01:56,211  INFO        ✚  {'Full Name': 'Management Analyst', 'Job Title': 'Records Specialist', 'Organization': 'City of Tomball'}
+2026-05-06 11:01:56,211  INFO        → 1 record(s) on page 21
+2026-05-06 11:01:56,211  INFO      ── Page 22/86 ────────────────────────────────────────
+2026-05-06 11:02:00,524  INFO        ✚  {'Full Name': 'ClO', 'Job Title': 'Director of Support Services', 'Organization': 'MCCi'}
+2026-05-06 11:02:00,524  INFO        → 1 record(s) on page 22
+2026-05-06 11:02:00,524  INFO      ── Page 23/86 ────────────────────────────────────────
+2026-05-06 11:02:04,533  INFO        ✚  {'Full Name': 'Information System Analyst', 'Job Title': '', 'Organization': 'City of Oroville'}
+2026-05-06 11:02:04,534  INFO        ✚  {'Full Name': 'Durham County Sheriff Office', 'Job Title': 'Foe Director of IT', 'Organization': 'Gallagher Asphalt Corporation'}
+2026-05-06 11:02:04,534  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'Manager of Support Services', 'Organization': 'MCCi'}
+2026-05-06 11:02:04,535  INFO        ✚  {'Full Name': 'Developmnent', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:02:04,535  INFO        → 4 record(s) on page 23
+2026-05-06 11:02:04,536  INFO      ── Page 24/86 ────────────────────────────────────────
+2026-05-06 11:02:09,015  INFO        ✚  {'Full Name': 'Special Project Data Analyst', 'Job Title': 'Business Systems Analyst', 'Organization': 'Village of Hoffman Estates'}
+2026-05-06 11:02:09,015  INFO        → 1 record(s) on page 24
+2026-05-06 11:02:09,015  INFO      ── Page 25/86 ────────────────────────────────────────
+2026-05-06 11:02:13,174  INFO        ✚  {'Full Name': 'Support Engineer', 'Job Title': 'AP Manager', 'Organization': 'Diamond Foods LLC'}
+2026-05-06 11:02:13,174  INFO        → 1 record(s) on page 25
+2026-05-06 11:02:13,175  INFO      ── Page 26/86 ────────────────────────────────────────
+2026-05-06 11:02:17,467  INFO        ✚  {'Full Name': 'IT Consultant', 'Job Title': 'Manager of Customer Success', 'Organization': 'Momentum ECM'}
+2026-05-06 11:02:17,467  INFO        → 1 record(s) on page 26
+2026-05-06 11:02:17,468  INFO      ── Page 27/86 ────────────────────────────────────────
+2026-05-06 11:02:21,848  INFO        ✚  {'Full Name': 'Building Services Manager', 'Job Title': '', 'Organization': 'The City of Miami'}
+2026-05-06 11:02:21,849  INFO        ✚  {'Full Name': 'Procnan', 'Job Title': 'Wey Applications Specialist', 'Organization': 'Confederated Tribes of Grand Ronde'}
+2026-05-06 11:02:21,850  INFO        → 2 record(s) on page 27
+2026-05-06 11:02:21,850  INFO      ── Page 28/86 ────────────────────────────────────────
+2026-05-06 11:02:26,303  INFO        ✚  {'Full Name': 'Training Manager', 'Job Title': 'Executive Director', 'Organization': 'SISC'}
+2026-05-06 11:02:26,304  INFO        ✚  {'Full Name': 'ED', 'Job Title': 'CEO', 'Organization': 'Expert Data'}
+2026-05-06 11:02:26,304  INFO        ✚  {'Full Name': 'Digital Document Solutions', 'Job Title': 'Director, Center for Emergency Preparedness, Alabama Department of Public Health', 'Organization': ''}
+2026-05-06 11:02:26,305  INFO        ✚  {'Full Name': 'Ventura County DAO', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:02:26,305  INFO        → 4 record(s) on page 28
+2026-05-06 11:02:26,305  INFO      ── Page 29/86 ────────────────────────────────────────
+2026-05-06 11:02:30,635  INFO        ✚  {'Full Name': 'IT Manager', 'Job Title': 'Ww Solutions Engineer', 'Organization': 'Delimited'}
+2026-05-06 11:02:30,636  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'Sr Manager, Projects and Applications, Chugach Electric', 'Organization': ''}
+2026-05-06 11:02:30,636  INFO        → 2 record(s) on page 29
+2026-05-06 11:02:30,636  INFO      ── Page 30/86 ────────────────────────────────────────
+2026-05-06 11:02:36,075  INFO        ✚  {'Full Name': 'Deputy City Clerk', 'Job Title': 'Network Engineer', 'Organization': 'City of Bremerton'}
+2026-05-06 11:02:36,076  INFO        ✚  {'Full Name': 'HM Hashmat Malik', 'Job Title': 'CEO, Software Productivity Strategists, Inc.', 'Organization': ''}
+2026-05-06 11:02:36,076  INFO        → 2 record(s) on page 30
+2026-05-06 11:02:36,077  INFO      ── Page 31/86 ────────────────────────────────────────
+2026-05-06 11:02:40,305  INFO        ✚  {'Full Name': 'Senior Software Engineer', 'Job Title': 'IT', 'Organization': 'City of Sterling'}
+2026-05-06 11:02:40,306  INFO        ✚  {'Full Name': 'I Irene Arellano', 'Job Title': 'we Deputy Clerk II', 'Organization': 'Kodiak Island Borough'}
+2026-05-06 11:02:40,306  INFO        ✚  {'Full Name': 'CDI', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:02:40,307  INFO        → 3 record(s) on page 31
+2026-05-06 11:02:40,307  INFO      ── Page 32/86 ────────────────────────────────────────
+2026-05-06 11:02:44,804  INFO        ✚  {'Full Name': 'Webmaster', 'Job Title': 'Director of Communications', 'Organization': 'Eparchy of Our Lady of Lebanon of Los Angeles'}
+2026-05-06 11:02:44,805  INFO        ✚  {'Full Name': 'Shannon Bros Co Inc', 'Job Title': 'IT Analyst', 'Organization': 'City of Rochester'}
+2026-05-06 11:02:44,805  INFO        ✚  {'Full Name': 'PIDC', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:02:44,806  INFO        → 3 record(s) on page 32
+2026-05-06 11:02:44,806  INFO      ── Page 33/86 ────────────────────────────────────────
+2026-05-06 11:02:49,820  INFO        ✚  {'Full Name': 'Major', 'Job Title': 'ClO', 'Organization': 'MetroConnects'}
+2026-05-06 11:02:49,821  INFO        → 1 record(s) on page 33
+2026-05-06 11:02:49,821  INFO      ── Page 34/86 ────────────────────────────────────────
+2026-05-06 11:02:54,709  INFO        ✚  {'Full Name': 'ECM Systems Analyst', 'Job Title': 'IT Director', 'Organization': 'City of Cathedral City'}
+2026-05-06 11:02:54,709  INFO        → 1 record(s) on page 34
+2026-05-06 11:02:54,710  INFO      ── Page 35/86 ────────────────────────────────────────
+2026-05-06 11:02:59,978  INFO        ✚  {'Full Name': 'SSW Technical Curriculum Developer', 'Job Title': 'Applications Services Manager', 'Organization': 'City of Burnsville'}
+2026-05-06 11:02:59,980  INFO        → 1 record(s) on page 35
+2026-05-06 11:02:59,980  INFO      ── Page 36/86 ────────────────────────────────────────
+2026-05-06 11:03:05,195  INFO        ✚  {'Full Name': 'IN', 'Job Title': 'Chief Technology Officer', 'Organization': 'The Alden Network'}
+2026-05-06 11:03:05,196  INFO        ✚  {'Full Name': 'KMwWorld', 'Job Title': 'Deputy City Clerk', 'Organization': 'City of Port Orchard'}
+2026-05-06 11:03:05,196  INFO        → 2 record(s) on page 36
+2026-05-06 11:03:05,196  INFO      ── Page 37/86 ────────────────────────────────────────
+2026-05-06 11:03:10,818  INFO        ✚  {'Full Name': 'Planning Technician', 'Job Title': 'Records Specialist Il', 'Organization': 'Clovis Police Department'}
+2026-05-06 11:03:10,818  INFO        → 1 record(s) on page 37
+2026-05-06 11:03:10,819  INFO      ── Page 38/86 ────────────────────────────────────────
+2026-05-06 11:03:17,155  INFO        ✚  {'Full Name': 'Software Operations', 'Job Title': 'Integration Systems Engineer', 'Organization': 'Washington Education Association'}
+2026-05-06 11:03:17,155  INFO        → 1 record(s) on page 38
+2026-05-06 11:03:17,156  INFO      ── Page 39/86 ────────────────────────────────────────
+2026-05-06 11:03:22,671  INFO        ✚  {'Full Name': 'IT Project Manager', 'Job Title': 'IT Analyst', 'Organization': 'City of Rochester MN'}
+2026-05-06 11:03:22,671  INFO        ✚  {'Full Name': 'Jim Tripp', 'Job Title': 'Ey Account Executive', 'Organization': 'Laserfiche'}
+2026-05-06 11:03:22,672  INFO        ✚  {'Full Name': 'Solutions Enaineer Il. Laserfiche', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:03:22,672  INFO        → 3 record(s) on page 39
+2026-05-06 11:03:22,672  INFO      ── Page 40/86 ────────────────────────────────────────
+2026-05-06 11:03:28,014  INFO        ✚  {'Full Name': 'ICC Community Development', 'Job Title': 'Senior Customer Education Manager', 'Organization': 'Laserfiche'}
+2026-05-06 11:03:28,014  INFO        → 1 record(s) on page 40
+2026-05-06 11:03:28,015  INFO      ── Page 41/86 ────────────────────────────────────────
+2026-05-06 11:03:32,988  INFO        ✚  {'Full Name': 'Captain', 'Job Title': 'IT analyst', 'Organization': 'City of Riverside'}
+2026-05-06 11:03:32,988  INFO        → 1 record(s) on page 41
+2026-05-06 11:03:32,988  INFO      ── Page 42/86 ────────────────────────────────────────
+2026-05-06 11:03:38,383  INFO        ✚  {'Full Name': 'Database Analyst', 'Job Title': '', 'Organization': 'County of Oxford'}
+2026-05-06 11:03:38,383  INFO        ✚  {'Full Name': 'John Scelzi', 'Job Title': 'Presales Manager', 'Organization': 'Laserfiche'}
+2026-05-06 11:03:38,384  INFO        → 2 record(s) on page 42
+2026-05-06 11:03:38,384  INFO      ── Page 43/86 ────────────────────────────────────────
+2026-05-06 11:03:43,702  INFO        ✚  {'Full Name': 'Senior Corporate Counsel', 'Job Title': 'IT Specialist', 'Organization': 'Intertribal Software'}
+2026-05-06 11:03:43,702  INFO        → 1 record(s) on page 43
+2026-05-06 11:03:43,702  INFO      ── Page 44/86 ────────────────────────────────────────
+2026-05-06 11:03:48,946  INFO        ✚  {'Full Name': 'Halbert Hargrove', 'Job Title': 'Chief Business Official', 'Organization': 'Taft Union High School District'}
+2026-05-06 11:03:48,946  INFO        → 1 record(s) on page 44
+2026-05-06 11:03:48,946  INFO      ── Page 45/86 ────────────────────────────────────────
+2026-05-06 11:03:54,351  INFO        ✚  {'Full Name': 'SF City Clerk', 'Job Title': 'Design Manager', 'Organization': 'CDI'}
+2026-05-06 11:03:54,352  INFO        → 1 record(s) on page 45
+2026-05-06 11:03:54,374  INFO      ── Page 46/86 ────────────────────────────────────────
+2026-05-06 11:03:59,600  INFO        ✚  {'Full Name': 'KS', 'Job Title': 'Business Application Analyst', 'Organization': 'Merced Community College'}
+2026-05-06 11:03:59,601  INFO        → 1 record(s) on page 46
+2026-05-06 11:03:59,601  INFO      ── Page 47/86 ────────────────────────────────────────
+2026-05-06 11:04:04,974  INFO        ✚  {'Full Name': 'Records Clerk', 'Job Title': 'Business Systems Analyst', 'Organization': 'City of Fontana'}
+2026-05-06 11:04:04,977  INFO        → 1 record(s) on page 47
+2026-05-06 11:04:04,977  INFO      ── Page 48/86 ────────────────────────────────────────
+2026-05-06 11:04:10,416  INFO        ✚  {'Full Name': 'Purchasing', 'Job Title': 'Executive Assistant', 'Organization': 'McHenry Police Department'}
+2026-05-06 11:04:10,417  INFO        → 1 record(s) on page 48
+2026-05-06 11:04:10,417  INFO      ── Page 49/86 ────────────────────────────────────────
+2026-05-06 11:04:16,029  INFO        ✚  {'Full Name': 'Planning Manager', 'Job Title': 'i IT Manager', 'Organization': 'City of Arroyo Grande'}
+2026-05-06 11:04:16,029  INFO        → 1 record(s) on page 49
+2026-05-06 11:04:16,029  INFO      ── Page 50/86 ────────────────────────────────────────
+2026-05-06 11:04:21,428  INFO        ✚  {'Full Name': 'Administrative Assistant', 'Job Title': 'Director of Business Services', 'Organization': 'Exeter Unified School District'}
+2026-05-06 11:04:21,428  INFO        → 1 record(s) on page 50
+2026-05-06 11:04:21,428  INFO      ── Page 51/86 ────────────────────────────────────────
+2026-05-06 11:04:27,398  INFO        ✚  {'Full Name': 'Laserfiche Consultant', 'Job Title': 'Director of Technology', 'Organization': 'Porterville Unified Schools District'}
+2026-05-06 11:04:27,398  INFO        ✚  {'Full Name': 'Rochester Public Utilities', 'Job Title': 'Senior Engineer', 'Organization': 'Momentum ECM'}
+2026-05-06 11:04:27,399  INFO        → 2 record(s) on page 51
+2026-05-06 11:04:27,399  INFO      ── Page 52/86 ────────────────────────────────────────
+2026-05-06 11:04:34,479  INFO        ✚  {'Full Name': 'Department', 'Job Title': 'Pay Software Developer, Berkeley Electric Cooperative, Inc.', 'Organization': ''}
+2026-05-06 11:04:34,479  INFO        → 1 record(s) on page 52
+2026-05-06 11:04:34,479  INFO      ── Page 53/86 ────────────────────────────────────────
+2026-05-06 11:04:40,292  INFO        ✚  {'Full Name': 'Planning Assitant', 'Job Title': 'Sales and Marketing Director', 'Organization': 'Sygnvs Integrated Solutions Inc.'}
+2026-05-06 11:04:40,297  INFO        → 1 record(s) on page 53
+2026-05-06 11:04:40,299  INFO      ── Page 54/86 ────────────────────────────────────────
+2026-05-06 11:04:45,377  INFO        ✚  {'Full Name': 'IT Systems Specialist', 'Job Title': 'Business Process Improvement Manager', 'Organization': 'Mille Lacs Band HHS'}
+2026-05-06 11:04:45,378  INFO        ✚  {'Full Name': 'Sure Good Foods Ltd.', 'Job Title': 'City Clerk', 'Organization': 'City of Walla Walla'}
+2026-05-06 11:04:45,378  INFO        → 2 record(s) on page 54
+2026-05-06 11:04:45,378  INFO      ── Page 55/86 ────────────────────────────────────────
+2026-05-06 11:04:50,039  INFO        ✚  {'Full Name': 'Career Advisor', 'Job Title': 'Archives Technician', 'Organization': 'Reno/Sparks Indian Colony'}
+2026-05-06 11:04:50,039  INFO        ✚  {'Full Name': 'Oakland County', 'Job Title': 'Application Administrator', 'Organization': 'Thurston County'}
+2026-05-06 11:04:50,040  INFO        → 2 record(s) on page 55
+2026-05-06 11:04:50,040  INFO      ── Page 56/86 ────────────────────────────────────────
+2026-05-06 11:04:54,704  INFO        ✚  {'Full Name': 'Records Technician', 'Job Title': 'tt City Secretary', 'Organization': 'City of Humble'}
+2026-05-06 11:04:54,704  INFO        → 1 record(s) on page 56
+2026-05-06 11:04:54,704  INFO      ── Page 57/86 ────────────────────────────────────────
+2026-05-06 11:04:59,081  INFO        ✚  {'Full Name': 'IT Director', 'Job Title': 'Managing Partner', 'Organization': 'Fieldfisher (Silicon Valley) LLP'}
+2026-05-06 11:04:59,081  INFO        → 1 record(s) on page 57
+2026-05-06 11:04:59,081  INFO      ── Page 58/86 ────────────────────────────────────────
+2026-05-06 11:05:04,282  INFO        ✚  {'Full Name': 'Marketing Communications Coordinator', 'Job Title': '', 'Organization': 'Laserfiche'}
+2026-05-06 11:05:04,282  INFO        ✚  {'Full Name': 'Zea Matthew Cross', 'Job Title': 'Gat Network Administrator', 'Organization': 'PF Collins Customs Brokers Limited.'}
+2026-05-06 11:05:04,283  INFO        ✚  {'Full Name': 'South Jersey Industries', 'Job Title': '‘ J Channel Sales Manager, Laserfiche', 'Organization': ''}
+2026-05-06 11:05:04,283  INFO        → 3 record(s) on page 58
+2026-05-06 11:05:04,283  INFO      ── Page 59/86 ────────────────────────────────────────
+2026-05-06 11:05:10,517  INFO        ✚  {'Full Name': 'CDI', 'Job Title': 'Utility Billing Clerk', 'Organization': 'Cottage Grove'}
+2026-05-06 11:05:10,518  INFO        → 1 record(s) on page 59
+2026-05-06 11:05:10,518  INFO      ── Page 60/86 ────────────────────────────────────────
+2026-05-06 11:05:15,372  INFO        ✚  {'Full Name': 'Business Analyst', 'Job Title': 'Senior Human Resources Analyst', 'Organization': 'City of Fontana'}
+2026-05-06 11:05:15,372  INFO        ✚  {'Full Name': 'Ada County Sheriffs Office', 'Job Title': 'Front End Developer', 'Organization': 'MSGCU'}
+2026-05-06 11:05:15,373  INFO        → 2 record(s) on page 60
+2026-05-06 11:05:15,373  INFO      ── Page 61/86 ────────────────────────────────────────
+2026-05-06 11:05:19,842  INFO        ✚  {'Full Name': 'Py Business System Analyst', 'Job Title': '“2 Laserfiche Engineer, Hemingway Solutions Inc', 'Organization': 'NC Department of Environmental Quality'}
+2026-05-06 11:05:19,842  INFO        ✚  {'Full Name': 'Ricoh Canada', 'Job Title': 'Account Manager', 'Organization': 'Cities Digital Inc.'}
+2026-05-06 11:05:19,843  INFO        → 2 record(s) on page 61
+2026-05-06 11:05:19,843  INFO      ── Page 62/86 ────────────────────────────────────────
+2026-05-06 11:05:24,588  INFO        ✚  {'Full Name': 'Government', 'Job Title': 'Records Manager', 'Organization': "Ada County Sheriff's Office"}
+2026-05-06 11:05:24,588  INFO        → 1 record(s) on page 62
+2026-05-06 11:05:24,589  INFO      ── Page 63/86 ────────────────────────────────────────
+2026-05-06 11:05:29,484  INFO        ✚  {'Full Name': 'CFO', 'Job Title': 'IT Professional', 'Organization': 'Parkland School Division'}
+2026-05-06 11:05:29,484  INFO        → 1 record(s) on page 63
+2026-05-06 11:05:29,484  INFO      ── Page 64/86 ────────────────────────────────────────
+2026-05-06 11:05:33,734  INFO        ✚  {'Full Name': 'Technical Project Manager', 'Job Title': '', 'Organization': 'Laserfiche'}
+2026-05-06 11:05:33,735  INFO        ✚  {'Full Name': 'Montego Minerals', 'Job Title': 'Information Systems Coordinator', 'Organization': 'School District of Lee County'}
+2026-05-06 11:05:33,736  INFO        ✚  {'Full Name': 'McKinney ISD', 'Job Title': 'HR Clerk', 'Organization': 'City of Fontana'}
+2026-05-06 11:05:33,736  INFO        ✚  {'Full Name': 'EMI Imaging', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:05:33,736  INFO        → 4 record(s) on page 64
+2026-05-06 11:05:33,737  INFO      ── Page 65/86 ────────────────────────────────────────
+2026-05-06 11:05:37,837  INFO        ✚  {'Full Name': 'IT Business Analyst', 'Job Title': 'Director, Credit and Risk, Vista Services Inc', 'Organization': 'City of Ellensburg'}
+2026-05-06 11:05:37,838  INFO        → 1 record(s) on page 65
+2026-05-06 11:05:37,838  INFO      ── Page 66/86 ────────────────────────────────────────
+2026-05-06 11:05:42,276  INFO        ✚  {'Full Name': 'IT Technician', 'Job Title': ': Records Manager, City of Rancho Mirage', 'Organization': 'Santa Clarita Valley Water Agency'}
+2026-05-06 11:05:42,277  INFO        → 1 record(s) on page 66
+2026-05-06 11:05:42,277  INFO      ── Page 67/86 ────────────────────────────────────────
+2026-05-06 11:05:46,324  INFO        ✚  {'Full Name': 'Financial Analyst Il', 'Job Title': 'Sze ECM Laserfiche Engineer', 'Organization': 'Department of Ecology'}
+2026-05-06 11:05:46,325  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:05:46,325  INFO        → 2 record(s) on page 67
+2026-05-06 11:05:46,325  INFO      ── Page 68/86 ────────────────────────────────────────
+2026-05-06 11:05:51,318  INFO        ✚  {'Full Name': 'Enterprise IT Technologist', 'Job Title': 'Business Analyst', 'Organization': 'City of Rolling Meadows'}
+2026-05-06 11:05:51,319  INFO        → 1 record(s) on page 68
+2026-05-06 11:05:51,319  INFO      ── Page 69/86 ────────────────────────────────────────
+2026-05-06 11:05:56,123  INFO        ✚  {'Full Name': 'Computer Software Analyst', 'Job Title': 'i ud City Secretary', 'Organization': 'City of Friendswood'}
+2026-05-06 11:05:56,124  INFO        ✚  {'Full Name': 'CASE Medical Group', 'Job Title': 'Database Engineer Il', 'Organization': 'VVUSD'}
+2026-05-06 11:05:56,124  INFO        → 2 record(s) on page 69
+2026-05-06 11:05:56,124  INFO      ── Page 70/86 ────────────────────────────────────────
+2026-05-06 11:06:00,589  INFO        ✚  {'Full Name': 'Portfolio Manager', 'Job Title': 'Programmer Analyst, CAE, USA', 'Organization': 'Ricoh Canada'}
+2026-05-06 11:06:00,589  INFO        ✚  {'Full Name': 'SS', 'Job Title': 'Information Technology Manager', 'Organization': 'Torrance Community Credit Union'}
+2026-05-06 11:06:00,590  INFO        → 2 record(s) on page 70
+2026-05-06 11:06:00,590  INFO      ── Page 71/86 ────────────────────────────────────────
+2026-05-06 11:06:04,902  INFO        ✚  {'Full Name': 'Claims Examiner', 'Job Title': 'Senior Applications Analyst', 'Organization': 'City of Moreno Valley'}
+2026-05-06 11:06:04,902  INFO        → 1 record(s) on page 71
+2026-05-06 11:06:04,902  INFO      ── Page 72/86 ────────────────────────────────────────
+2026-05-06 11:06:17,530  INFO        ✚  {'Full Name': 'IT Specialist', 'Job Title': 'Analyst', 'Organization': 'Canon U.S.A.'}
+2026-05-06 11:06:17,530  INFO        → 1 record(s) on page 72
+2026-05-06 11:06:17,530  INFO      ── Page 73/86 ────────────────────────────────────────
+2026-05-06 11:06:27,281  INFO        ✚  {'Full Name': 'Software Test Engineer', 'Job Title': 'Human Resources', 'Organization': 'Village of Carol Stream'}
+2026-05-06 11:06:27,282  INFO        → 1 record(s) on page 73
+2026-05-06 11:06:27,283  INFO      ── Page 74/86 ────────────────────────────────────────
+2026-05-06 11:06:32,572  INFO        ✚  {'Full Name': 'National Accounts Manager', 'Job Title': 'Assistant Superintendent', 'Organization': 'Kern High School District'}
+2026-05-06 11:06:32,690  INFO        → 1 record(s) on page 74
+2026-05-06 11:06:32,691  INFO      ── Page 75/86 ────────────────────────────────────────
+2026-05-06 11:06:37,144  INFO        ✚  {'Full Name': 'Information Systems Specialist', 'Job Title': 'TW Records Administrator', 'Organization': 'Seminole Tribe of Florida'}
+2026-05-06 11:06:37,144  INFO        → 1 record(s) on page 75
+2026-05-06 11:06:37,145  INFO      ── Page 76/86 ────────────────────────────────────────
+2026-05-06 11:06:41,272  INFO        ✚  {'Full Name': 'Information Technology Manager', 'Job Title': 'Business System Analyst', 'Organization': 'City of Fontana'}
+2026-05-06 11:06:41,273  INFO        → 1 record(s) on page 76
+2026-05-06 11:06:41,273  INFO      ── Page 77/86 ────────────────────────────────────────
+2026-05-06 11:06:45,494  INFO        ✚  {'Full Name': 'Supervisor', 'Job Title': 'Administrator of Development & Permitting', 'Organization': 'City of North Las Vegas'}
+2026-05-06 11:06:45,494  INFO        → 1 record(s) on page 77
+2026-05-06 11:06:45,494  INFO      ── Page 78/86 ────────────────────────────────────────
+2026-05-06 11:06:49,717  INFO        ✚  {'Full Name': 'Software Support Administrator', 'Job Title': 'e Systems Analyst', 'Organization': 'City of Tucson'}
+2026-05-06 11:06:49,717  INFO        → 1 record(s) on page 78
+2026-05-06 11:06:49,717  INFO      ── Page 79/86 ────────────────────────────────────────
+2026-05-06 11:06:53,908  INFO        ✚  {'Full Name': 'Assistant City Attorney', 'Job Title': 'é Application Administrator, City of Keller', 'Organization': 'City of Burlingame'}
+2026-05-06 11:06:53,909  INFO        ✚  {'Full Name': 'Kansas State University', 'Job Title': 'IT Technician III', 'Organization': 'Town of Firestone'}
+2026-05-06 11:06:53,909  INFO        → 2 record(s) on page 79
+2026-05-06 11:06:53,909  INFO      ── Page 80/86 ────────────────────────────────────────
+2026-05-06 11:06:57,987  INFO        ✚  {'Full Name': 'IT Service Desk Specialist', 'Job Title': 'Canon U.S.A.', 'Organization': 'Inc.'}
+2026-05-06 11:06:57,987  INFO        → 1 record(s) on page 80
+2026-05-06 11:06:57,987  INFO      ── Page 81/86 ────────────────────────────────────────
+2026-05-06 11:07:02,210  INFO        ✚  {'Full Name': 'Records Coordinator', 'Job Title': 'VP of Business Strategy, Digital Age Tech Consultants, LLC', 'Organization': 'City of North Las Vegas'}
+2026-05-06 11:07:02,210  INFO        → 1 record(s) on page 81
+2026-05-06 11:07:02,211  INFO      ── Page 82/86 ────────────────────────────────────────
+2026-05-06 11:07:06,452  INFO        ✚  {'Full Name': 'Se National Sales Engineer', 'Job Title': 'Senior Network Administrator', 'Organization': 'City of Dubuque'}
+2026-05-06 11:07:06,452  INFO        → 1 record(s) on page 82
+2026-05-06 11:07:06,452  INFO      ── Page 83/86 ────────────────────────────────────────
+2026-05-06 11:07:10,873  INFO        ✚  {'Full Name': 'Trust Officer', 'Job Title': 'Manager, Accounting & Business Intelligence, Luminus Financial', 'Organization': 'Deseret Trust Company'}
+2026-05-06 11:07:10,873  INFO        ✚  {'Full Name': 'TAMU', 'Job Title': '"Director of Learning & Development, Laserfiche', 'Organization': ''}
+2026-05-06 11:07:10,873  INFO        → 2 record(s) on page 83
+2026-05-06 11:07:10,874  INFO      ── Page 84/86 ────────────────────────────────────────
+2026-05-06 11:07:14,889  INFO        ✚  {'Full Name': 'Application Specialist', 'Job Title': 'IT Manager', 'Organization': 'Universidad Iberoamericana'}
+2026-05-06 11:07:14,890  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'ae Solutions Engineer', 'Organization': 'Sumnerone'}
+2026-05-06 11:07:14,890  INFO        ✚  {'Full Name': 'MCCi', 'Job Title': 'Director of Information Technology', 'Organization': 'Wallis Companies'}
+2026-05-06 11:07:14,891  INFO        → 3 record(s) on page 84
+2026-05-06 11:07:14,891  INFO      ── Page 85/86 ────────────────────────────────────────
+2026-05-06 11:07:19,148  INFO        ✚  {'Full Name': 'Chief Legal Officer', 'Job Title': 'Technology Support Speicialist', 'Organization': 'Salinas City Elementary School District'}
+2026-05-06 11:07:19,148  INFO        ✚  {'Full Name': 'Laserfiche', 'Job Title': 'Senior Customer Engagement Manager', 'Organization': 'Laserfiche'}
+2026-05-06 11:07:19,149  INFO        ✚  {'Full Name': 'Ricoh', 'Job Title': '', 'Organization': ''}
+2026-05-06 11:07:19,149  INFO        ✚  {'Full Name': 'Modified Logic', 'Job Title': 'Member Services Manager, Teachers’ Retirement System of Oklahoma', 'Organization': ''}
+2026-05-06 11:07:19,149  INFO        → 4 record(s) on page 85
+2026-05-06 11:07:19,150  INFO      ── Page 86/86 ────────────────────────────────────────
+2026-05-06 11:07:22,332  INFO        → 0 record(s) on page 86
+2026-05-06 11:07:22,337  INFO      
+  Total unique records: 134
+2026-05-06 11:07:22,376  INFO      ✓  CSV saved → 'employees.csv'  (134 records)
+2026-05-06 11:07:22,380  INFO      Done.
